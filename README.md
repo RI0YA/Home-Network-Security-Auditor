@@ -1,5 +1,5 @@
 #  NetGuard Pro: Automated Network Security Auditor
-**Developed by Riya Gupta | PG-DASSD, CDAC Hyderabad**
+**Developed by Riya Gupta **
 
 ##  Overview
 NetGuard Pro is a professional-grade vulnerability assessment tool built in Python. It automates complex Nmap scanning phases into a streamlined workflow, identifying live assets and mapping them against common security risks.
